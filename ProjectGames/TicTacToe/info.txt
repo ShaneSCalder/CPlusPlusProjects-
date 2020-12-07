@@ -1,0 +1,20 @@
+
+Written in C++ 
+
+Creates a grid 3 X 3 
+
+1 games is over with result
+0 game is over no result
+-1 game is in progress 
+
+2 players 
+play until draw or one wins. 
+
+TicTacToe.cpp
+
+ToDo 
+
+Want to create a 4 in a row game 3 players 24 x 24 grid 
+Player 1 x
+Player 2 O
+Player 3 z 
