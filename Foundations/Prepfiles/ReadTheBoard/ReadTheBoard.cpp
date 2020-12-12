@@ -30,7 +30,7 @@ void PrintBoard(const vector<vector<int>> board) {
 
 int main() {
   // TODO: Call the ReadBoardFile function here.
-  //ReadBoardFile;
+  ReadBoardFile("1.board");
   // Leave the following line commented out.
   //PrintBoard(board);
 }
